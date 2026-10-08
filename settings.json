@@ -1,12 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "thanosgdp",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Mikasa0762.aternos.me",
+    "ip": "DominantSMP10.aternos.me
+",
     "port": 42590,
     "version": "1.20.1",
     "try-creative": false
